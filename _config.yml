@@ -1,0 +1,28 @@
+name: Jm
+favicon: null
+layout_spectrum: 0.4937383630312979
+typography_spectrum: 0.05834689270704985
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.08125938987359405
+  lightness: 0.7532875521574169
+  saturation: 0.7197855182457715
+  rhythmicContrast: 0.6099740453064442
+purpose: []
