@@ -1,7 +1,7 @@
 name: Jm
 favicon: null
-layout_spectrum: 0.4937383630312979
-typography_spectrum: 0.05834689270704985
+layout_spectrum: 0.45904
+typography_spectrum: 0.65961
 title: 'Thoughts from a Vagabond Entrepreneur '
 cta:
   domain: null
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
+    - '#7688ac'
+    - '#ede8e4'
+    - '#47505f'
+    - '#3e3629'
+    - '#9aa9c6'
   brandStrength: 0.08125938987359405
   lightness: 0.7532875521574169
   saturation: 0.7197855182457715
